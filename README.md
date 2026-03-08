@@ -1,3 +1,16 @@
+## 👨‍💻 Yeo Unhyeok (여운혁)
+
+> **MLOps & Infrastructure Engineer**
+> Building systems that make AI run in production.
+
 ---
-- MLOps & Infrastructure Engineer | Model Serving · Hybrid Cloud · IaC | Building systems that make AI run in production
-- MLOps 및 인프라 엔지니어 | 모델 서빙 · 하이브리드 클라우드 · IaC | AI 모델이 실제 운영 환경에서 동작할 수 있는 시스템을 구축합니다.
+
+### 🛠️ Core Stack
+![Infrastructure](https://img.shields.io/badge/Infrastructure-Hybrid_Cloud-blue) 
+![Model Serving](https://img.shields.io/badge/Serving-Model_Serving-green) 
+![IaC](https://img.shields.io/badge/IaC-Ansible_%7C_Docker-orange)
+
+### 🚀 Focusing on
+* **Model Serving**: AI 모델의 실서비스 배포 및 최적화
+* **Hybrid Cloud**: OCI ARM + Local Infra 통합 운영
+* **Standardization**: Ansible을 이용한 인프라 자동화 및 코드화
