@@ -33,7 +33,7 @@
 ---
 
 ### 📝 Latest Posts from Technical Blog
-운혁의 기술 블로그에서는 인프라 자동화와 하이브리드 클라우드 구축기를 다룹니다.
+기술 블로그에서는 인프라 자동화와 하이브리드 클라우드 구축기 등을 다룹니다.
 
 [![Blog Badge](https://img.shields.io/badge/Visit_My_Blog-yeoun.org-6706CE?style=for-the-badge&logo=ghost&logoColor=white)](https://yeoun.org)
 
@@ -44,7 +44,6 @@
 
 ### 🏆 Honors
 * **2021 공개 SW 개발자대회 [특별상]** - OpenCV 기반 지능형 출결 시스템
-* **2023 공개 SW 개발자대회 출품** - YOLOv5 기반 객체 탐지 모델 서빙
 
 ---
 
