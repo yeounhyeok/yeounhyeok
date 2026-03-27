@@ -10,6 +10,8 @@
 * **Model Serving**: AI 모델의 실서비스 배포 및 최적화 (FastAPI, PyTorch)
 * **Hybrid Cloud**: OCI ARM + Local Infra 통합 운영 및 망 격리
 * **IaC & Automation**: Ansible을 이용한 인프라 코드화 및 자동화
+* **Agent Workflows**: OpenClaw 기반 스킬 설계, 인증 흐름 점검, 상태 조회 자동화
+* **Harness-Oriented Thinking**: 에이전트가 실제 작업을 안정적으로 수행하도록 실행 흐름, 출력 포맷, 실패 판정 로직을 다듬는 방향으로 학습 중
 
 ---
 
@@ -32,6 +34,7 @@
 | **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=Grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white) |
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-Web-Services&logoColor=white) ![OCI](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=Oracle&logoColor=white) |
 | **AI & MLOps** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) |
+| **Agent Systems** | ![OpenAI](https://img.shields.io/badge/LLM_Workflows-412991?style=flat-square&logo=OpenAI&logoColor=white) ![JSON](https://img.shields.io/badge/Agent_Skills-000000?style=flat-square&logo=json&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=Playwright&logoColor=white) |
 | **Security & Net** | ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=WireGuard&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Authentik](https://img.shields.io/badge/Authentik_SSO-FD4B2D?style=flat-square&logo=Authy&logoColor=white) |
 
 ---
