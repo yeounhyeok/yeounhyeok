@@ -1,6 +1,7 @@
 # 👨‍💻 Yeo Unhyeok (여운혁)
 > **MLOps & Infrastructure Engineer**  
-> _"Building systems that make AI run in production, not just in notebooks."_
+> _"Building systems that make AI run in production, not just in notebooks."_  
+> _Currently studying toward agent systems / harness engineering through OpenClaw-based automation and skill design._
 
 ---
 
