@@ -7,8 +7,8 @@
 
 ### 🚀 Highlights
 
-* **Model Serving**: AI 모델의 실서비스 배포 및 최적화 (FastAPI, PyTorch)
-* **Hybrid Cloud**: OCI ARM + Local Infra 통합 운영 및 망 격리
+* **Model Serving**: AI 모델의 실서비스 배포 (FastAPI, PyTorch)
+* **Hybrid Cloud**: OCI Cloud + Local Infra 통합 운영 및 망 격리
 * **IaC & Automation**: Ansible을 이용한 인프라 코드화 및 자동화
 * **Agent Workflows**: OpenClaw 기반 스킬 설계, 인증 흐름 점검, 상태 조회 자동화
 * **Harness-Oriented Thinking**: 에이전트가 실제 작업을 안정적으로 수행하도록 실행 흐름, 출력 포맷, 실패 판정 로직을 다듬는 방향으로 학습 중
