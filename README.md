@@ -34,6 +34,12 @@
 
 ---
 
+### Open Source
+
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) — [PR #4018](https://github.com/HKUDS/nanobot/pull/4018)
+
+---
+
 ### 🏆 Honors
 
 * **2021 공개 SW 개발자대회 [특별상]** - OpenCV 기반 지능형 출결 시스템
