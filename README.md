@@ -28,6 +28,16 @@
 
 <br>
 
+## 📊 Problem Solving
+
+**Solved.ac Platinum V**
+
+<a href="https://solved.ac/profile/yeopeter1031">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yeopeter1031" alt="Solved.ac profile" width="350">
+</a>
+
+<br>
+
 ## 🔬 Research
 
 ### [Visual Intelligence Lab.](https://sites.google.com/view/hs-vilab) · Hansung University
@@ -64,48 +74,32 @@ Advisor: **Prof. Heeseok Oh**
 
 ## 🏆 Honors & Awards
 
-|   Year   | Recognition                  | Detail                                                                                                                                                                                                          |
-| :------: | :--------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **2026** | **Top ~7% · 19 / 261 teams** | [AI·SW중심대학 디지털 경진대회 AI부문](https://dacon.io/competitions/official/236694/leaderboard) · AI Agent Behavior Inference · 최지용과 Team **Applied AI** · [Code](https://github.com/YONGJI04/2026-sw-univ-competition-ai) |
-| **2026** | **단대최우수장학금**                 |                                                                                                                                                                                                 |
-| **2026** | **우수한성역량장학금**                |                                                                                                                                                                                          |
-| **2021** | **특별상**                      | [공개SW 개발자대회 학생부문 · OpenCV 기반 지능형 출결 시스템](https://github.com/yeounhyeok/FacialRecognition-for-AutoClassroom)                                                                                                     |
+|   Year   | Recognition                  | Detail                                                                                                                                                                                                     |
+| :------: | :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **2026** | **Top ~7% · 19 / 261 teams** | [AI·SW중심대학 디지털 경진대회 AI부문](https://dacon.io/competitions/official/236694/leaderboard) · AI Agent Behavior Inference · Team **Applied AI** · [Code](https://github.com/YONGJI04/2026-sw-univ-competition-ai) |
+| **2026** | **단대최우수장학금**                 | 한성대학교 · 등록금 전액                                                                                                                                                                                             |
+| **2026** | **우수한성역량장학금**                | 한성대학교 · ₩2,132,500                                                                                                                                                                                         |
+| **2021** | **특별상**                      | [공개SW 개발자대회 학생부문 · OpenCV 기반 지능형 출결 시스템](https://github.com/yeounhyeok/FacialRecognition-for-AutoClassroom)                                                                                                |
 
 <br>
 
-## 🛠 Tech
+## 🛠️ Tech Stack
 
-**AI / Vision**
-`Python` · `PyTorch` · `CUDA` · `Hugging Face` · `OpenCV` · `YOLO` · `LeRobot`
-
-**Backend / Integration**
-`FastAPI` · `Spring Boot` · `PostgreSQL` · `WebSocket` · `ZeroMQ` · `MCP`
-
-**Cloud / Infrastructure**
-`Linux` · `AWS` · `OCI` · `Docker` · `Terraform` · `Ansible` · `Nginx`
-
-**DevOps / Networking**
-`GitHub Actions` · `Prometheus` · `Grafana` · `Loki` · `WireGuard` · `Tailscale` · `Cloudflare`
+| Category                  | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Languages**             | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=Python\&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)                                                                                                                                                                                                                                                          |
+| **AI & Vision**           | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=PyTorch\&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square\&logo=nvidia\&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square\&logo=HuggingFace\&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=OpenCV\&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square\&logo=YOLO\&logoColor=white)                             |
+| **Backend & Integration** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=FastAPI\&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=Spring-Boot\&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=PostgreSQL\&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square\&logo=socketdotio\&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square\&logo=anthropic\&logoColor=white) |
+| **Infra & DevOps**        | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=Docker\&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square\&logo=Terraform\&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square\&logo=Ansible\&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=NGINX\&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=GitHub-Actions\&logoColor=white)      |
+| **Cloud**                 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white) ![OCI](https://img.shields.io/badge/OCI-F80000?style=flat-square\&logo=Oracle\&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=Cloudflare\&logoColor=white)                                                                                                                                                                                                                                        |
+| **Observability**         | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=Prometheus\&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square\&logo=Grafana\&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat-square\&logo=Grafana\&logoColor=white)                                                                                                                                                                                                                                       |
+| **Network & Security**    | ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square\&logo=WireGuard\&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square\&logo=Tailscale\&logoColor=white) ![Authentik](https://img.shields.io/badge/Authentik-FF4B4B?style=flat-square\&logo=authentik\&logoColor=white)                                                                                                                                                                                                                        |
+| **Embedded & IoT**        | ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square\&logo=Arduino\&logoColor=white) ![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square\&logo=Home-Assistant\&logoColor=white)                                                                                                                                                                                                                                                                                                                              |
 
 <br>
 
 ## 📫 Contact
 
-* **Academic:** [yeopeter1031@hansung.ac.kr](mailto:yeopeter1031@hansung.ac.kr)
-* **Personal:** [yeopeter1031@naver.com](mailto:yeopeter1031@naver.com)
-* **Blog:** [yeoun.org](https://yeoun.org)
-
-<br>
-
-<details>
-<summary><strong>📊 Problem Solving</strong></summary>
-
-<br>
-
-**Solved.ac Platinum V**
-
-<a href="https://solved.ac/profile/yeopeter1031">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yeopeter1031" alt="Solved.ac profile" width="350">
-</a>
-
-</details>
+* 📧 **Academic:** [yeopeter1031@hansung.ac.kr](mailto:yeopeter1031@hansung.ac.kr)
+* 📧 **Personal:** [yeopeter1031@naver.com](mailto:yeopeter1031@naver.com)
+* 🌐 **Blog:** [yeoun.org](https://yeoun.org)
