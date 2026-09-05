@@ -77,8 +77,8 @@ _Advisor: **Prof. Heeseok Oh**_
 |   Year   | Recognition                  | Detail                                                                                                                                                                                                     |
 | :------: | :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **2026** | **Top ~7% · 19 / 261 teams** | [AI·SW중심대학 디지털 경진대회 AI부문](https://dacon.io/competitions/official/236694/leaderboard) · AI Agent Behavior Inference · Team **Applied AI** · [Code](https://github.com/YONGJI04/2026-sw-univ-competition-ai) |
-| **2026** | **단대최우수장학금**                 | 한성대학교 · 등록금 전액                                                                                                                                                                                             |
-| **2026** | **우수한성역량장학금**                | 한성대학교 · ₩2,132,500                                                                                                                                                                                         |
+| **2026** | **단대최우수장학금**                 |                                                                                                                                                                                             |
+| **2023** | **우수한성역량장학금**                |                                                                                                                                                                                         |
 | **2021** | **특별상**                      | [공개SW 개발자대회 학생부문 · OpenCV 기반 지능형 출결 시스템](https://github.com/yeounhyeok/FacialRecognition-for-AutoClassroom)                                                                                                |
 
 <br>
