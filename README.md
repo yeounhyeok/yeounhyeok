@@ -3,6 +3,9 @@
 > Hybrid Cloud · Zero Trust · AI Serving  
 > Low-spec Infrastructure Optimization
 
+- Visual Intelligence Lab, Undergraduate Intern (Advisor: Prof. Heeseok Oh) 
+  (03.2026 - Present)
+
 ---
 
 ### 📊 Stats
