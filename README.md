@@ -21,7 +21,7 @@
 모델 설계에서 나아가 **API · 인프라 · 물리 디바이스까지 연결해 실제로 동작하는 시스템**을 만드는 것을 좋아합니다.
 
 * 🎓 **한성대학교 AI응용학과** · 2023 – Present
-* 🔬 **Visual Intelligence Lab. 학부연구생** · 2026.03 – Present
+* 🔬 **Visual Intelligence Lab. Undergraduate Intern** · 2026.03 – Present
 * 🧠 **Research:** 3D Gaussian Splatting · 3D Reconstruction & Editing · Generative Models
 * ⚙️ **Engineering:** MLOps · AI Serving · Hybrid Cloud · Resource-Constrained Systems
 * 📚 **GPA:** 4.38 / 4.5
